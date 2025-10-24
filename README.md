@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kostanca Kovaci</h1>
 
-<h2 align="center">🎓 **MSc Data Scientist | Undergraduate Physicist**</h2>
-<h3 align="center">I am passionate about applying **data science, machine learning, and statistics** to solve real-world problems.</h3>
+<h2 align="center">🎓 MSc Data Scientist | Undergraduate Physicist</h2>
+<h3 align="center">I am passionate about applying data science, machine learning, and statistics to solve real-world problems.</h3>
 
 
 ### 🛠️ Tech Stack
@@ -25,9 +25,4 @@
 ---
 
 - 👨‍💻 All of my projects are available at [https://github.com/kovacikostanca/Data-Science-Portfolio](https://github.com/kovacikostanca/Data-Science-Portfolio)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kostanca kovaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kostanca kovaci" height="30" width="40" /></a>
-</p>
 
