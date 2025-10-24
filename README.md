@@ -28,6 +28,8 @@
 
 ---
 
+### 🚀 Featured Projects
+
 ---
 
 ### 🚀 Featured Projects
@@ -35,37 +37,36 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📊 Movie Ratings Sentiment Analysis</h3>
+      <h3 align="center">🏠 House Price Prediction</h3>
       <p align="center">
-        <a href="https://github.com/KostancaKovaci/movie-sentiment-analysis" target="_blank">
-          <img src="https://github.com/KostancaKovaci/movie-sentiment-analysis/blob/main/preview.png" width="400" alt="Movie Sentiment Analysis"/>
+        <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/house-price-prediction" target="_blank">
+          <img src="https://raw.githubusercontent.com/kovacikostanca/Data-Science-Portfolio/main/house-price-prediction/preview.png" width="400" alt="House Price Prediction"/>
         </a>
       </p>
       <p align="center">
-        Predicts movie review sentiments using NLP techniques and logistic regression.
+        A regression model built to predict house sale prices using exploratory data analysis, feature engineering and machine learning algorithms.  
         <br/>
-        <strong>Tech:</strong> Python, Scikit-learn, NLTK, Pandas
+        <strong>Tech:</strong> Python, Pandas, Scikit-learn, Matplotlib  
         <br/>
-        <a href="https://github.com/KostancaKovaci/movie-sentiment-analysis" target="_blank">🔗 View Project</a>
+        <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/house-price-prediction" target="_blank">🔗 View Project</a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🌦️ Weather Data Visualization Dashboard</h3>
+      <h3 align="center">📺 Netflix Show Data EDA</h3>
       <p align="center">
-        <a href="https://github.com/KostancaKovaci/weather-dashboard" target="_blank">
-          <img src="https://github.com/KostancaKovaci/weather-dashboard/blob/main/dashboard.png" width="400" alt="Weather Dashboard"/>
+        <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Netflix-Show-EDA" target="_blank">
+          <img src="https://raw.githubusercontent.com/kovacikostanca/Data-Science-Portfolio/main/Netflix-Show-EDA/preview.png" width="400" alt="Netflix Show EDA"/>
         </a>
       </p>
       <p align="center">
-        An interactive dashboard visualizing weather patterns using Python and Tableau.
+        Analyzing trends, genres and metadata of Netflix shows using data visualization and insights from a real streaming dataset.  
         <br/>
-        <strong>Tech:</strong> Python, Tableau, Pandas, Seaborn
+        <strong>Tech:</strong> Python, Pandas, Seaborn, Tableau  
         <br/>
-        <a href="https://github.com/KostancaKovaci/weather-dashboard" target="_blank">🔗 View Project</a>
+        <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Netflix-Show-EDA" target="_blank">🔗 View Project</a>
       </p>
     </td>
   </tr>
 </table>
 
 ---
-
