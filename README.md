@@ -26,3 +26,46 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kovacikostanca/Data-Science-Portfolio](https://github.com/kovacikostanca/Data-Science-Portfolio)
 
+---
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📊 Movie Ratings Sentiment Analysis</h3>
+      <p align="center">
+        <a href="https://github.com/KostancaKovaci/movie-sentiment-analysis" target="_blank">
+          <img src="https://github.com/KostancaKovaci/movie-sentiment-analysis/blob/main/preview.png" width="400" alt="Movie Sentiment Analysis"/>
+        </a>
+      </p>
+      <p align="center">
+        Predicts movie review sentiments using NLP techniques and logistic regression.
+        <br/>
+        <strong>Tech:</strong> Python, Scikit-learn, NLTK, Pandas
+        <br/>
+        <a href="https://github.com/KostancaKovaci/movie-sentiment-analysis" target="_blank">🔗 View Project</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌦️ Weather Data Visualization Dashboard</h3>
+      <p align="center">
+        <a href="https://github.com/KostancaKovaci/weather-dashboard" target="_blank">
+          <img src="https://github.com/KostancaKovaci/weather-dashboard/blob/main/dashboard.png" width="400" alt="Weather Dashboard"/>
+        </a>
+      </p>
+      <p align="center">
+        An interactive dashboard visualizing weather patterns using Python and Tableau.
+        <br/>
+        <strong>Tech:</strong> Python, Tableau, Pandas, Seaborn
+        <br/>
+        <a href="https://github.com/KostancaKovaci/weather-dashboard" target="_blank">🔗 View Project</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
