@@ -10,6 +10,7 @@ I am passionate about applying **data science, machine learning, and statistics*
 **Languages:** Python, SQL  
 **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow (learning)  
 **Tools:** Jupyter Notebook, Git, Tableau
+
 **Areas of Interest:** Machine Learning, NLP, Data Visualization
 
 ---
