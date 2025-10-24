@@ -17,3 +17,5 @@ I am passionate about applying **data science, machine learning, and statistics*
 📫 [Email Me](mailto:kovacikostancal@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/kostanca-kovaci)  
 🌐 [Portfolio Website](https://.com)  
+
+---
