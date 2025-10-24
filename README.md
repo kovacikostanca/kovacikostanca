@@ -1,8 +1,8 @@
 ## Hi, my name is Kostanca Kovaci 👋
 
-🎓 **Undergraduate Physicist | Data Scientist**
+🎓 **Undergraduate Physicist | MSc Data Scientist**
 
-MSc Data Scientist passionate about applying **data science, machine learning, and statistics** to solve real-world problems.
+I am passionate about applying **data science, machine learning, and statistics** to solve real-world problems.
 
 ---
 
