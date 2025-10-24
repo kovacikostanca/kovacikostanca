@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, my name is Kostanca Kovaci 👋
 
-<!--
-**kovacikostanca/kovacikostanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Undergraduate Physicist | Data Scientist**
 
-Here are some ideas to get you started:
+MSc Data Scientist passionate about applying **data science, machine learning, and statistics** to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+**Languages:** Python, SQL  
+**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow (learning)  
+**Tools:** Jupyter Notebook, Git, Tableau 
+**Areas of Interest:** Machine Learning, NLP, Data Visualization
+
+---
+
+📫 [Email Me](mailto:kovacikostancal@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/kostanca-kovaci)  
+🌐 [Portfolio Website](https://.com)  
