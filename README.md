@@ -30,17 +30,13 @@
 
 ### 🚀 Featured Projects
 
----
-
-### 🚀 Featured Projects
-
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🏠 House Price Prediction</h3>
       <p align="center">
         <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/house-price-prediction" target="_blank">
-          <img src="https://raw.githubusercontent.com/kovacikostanca/Data-Science-Portfolio/main/house-price-prediction/preview.png" width="400" alt="House Price Prediction"/>
+          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Netflix-Show-EDA/Netflix-EDA.png" width="400" alt="House Price Prediction"/>
         </a>
       </p>
       <p align="center">
