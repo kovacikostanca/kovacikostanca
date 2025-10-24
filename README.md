@@ -36,7 +36,7 @@
       <h3 align="center">🏠 House Price Prediction</h3>
       <p align="center">
         <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/house-price-prediction" target="_blank">
-          <img src="house-price-prediction/housingcosts.jpg" width="400" alt="House Price Prediction"/>
+          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/house-price-prediction/housingcosts.jpg" width="400" alt="House Price Prediction"/>
         </a>
       </p>
       <p align="center">
