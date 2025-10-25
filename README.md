@@ -9,7 +9,7 @@
 
 **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow (learning)  
 
-**Tools:** Jupyter Notebook, Git, Tableau
+**Tools:** Jupyter Notebook, Tableau, Excel, Matlab
 
 **Areas of Interest:** Machine Learning, NLP, Data Visualization
 
