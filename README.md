@@ -66,7 +66,7 @@
       <h3 align="center">Student Exam Performance Prediction</h3>
       <p align="center">
         <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Student_Performance_using_RandomForest" target="_blank">
-          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Student_Performance_using_RandomForest/student_exam_performance.jpg" width="400" alt="Netflix Show EDA"/>
+          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Student_Performance_using_RandomForest/student_exam_performance.jpg" width="400" alt="Student Exam Performance Prediction"/>
         </a>
       </p>
       <p align="center">
