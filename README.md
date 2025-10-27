@@ -91,8 +91,7 @@
         </a>
       </p>
       <p align="center">
-        This project illustrates an interactive Tableau Dashboard that provides data-driven insights into sales performance and business growth.
-This project highlights my ability to analyze data, design interactive dashboards, and communicate key business metrics effectively.
+        This project illustrates an interactive Tableau Dashboard that provides data-driven insights into sales performance and business growth, highlighting data analysis, and design interactive dashboards.
         <br/>
         <strong>Tech:</strong> Data Collection, Data Cleaning, EDA, Python, Tableau 
         <br/>
