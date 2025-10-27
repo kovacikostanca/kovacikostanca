@@ -82,6 +82,24 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Sales Insights Dashboard</h3>
+      <p align="center">
+        <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Sales%20Insights%20Dashboard/README.md" target="_blank">
+          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Sales%20Insights%20Dashboard/Sales%20Insights%20Dashboard.png" width="400" alt="Sales Insights Dashboard"/>
+        </a>
+      </p>
+      <p align="center">
+        This project illustrates an interactive Tableau Dashboard that provides data-driven insights into sales performance and business growth.
+This project highlights my ability to analyze data, design interactive dashboards, and communicate key business metrics effectively.
+        <br/>
+        <strong>Tech:</strong> Data Collection, Data Cleaning, EDA, Python, Tableau 
+        <br/>
+        <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Sales%20Insights%20Dashboard/README.md" target="_blank">🔗 View Project</a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
