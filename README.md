@@ -20,7 +20,7 @@
 
 📫 [Email Me](mailto:kovacikostancal@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/kostanca-kovaci)  
-🌐 [Portfolio Website](https://.com)  
+🌐 [Portfolio Website](https://kovacikostanca.github.io/kostancakovaci.github.io/)
 
 ---
 
