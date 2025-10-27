@@ -62,6 +62,10 @@
         <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Netflix-Show-EDA" target="_blank">🔗 View Project</a>
       </p>
     </td>
+</table>
+  
+<table>
+  <tr>
     <td width="50%">
       <h3 align="center">Student Exam Performance Prediction</h3>
       <p align="center">
