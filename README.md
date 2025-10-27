@@ -57,9 +57,24 @@
       <p align="center">
         Analyzing trends, genres and metadata of Netflix shows using data visualization and insights from a real streaming dataset.  
         <br/>
-        <strong>Tech:</strong> Python, Pandas, Seaborn, Tableau  
+        <strong>Tech:</strong> Python, Pandas, Seaborn 
         <br/>
         <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Netflix-Show-EDA" target="_blank">🔗 View Project</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Student Exam Performance Prediction</h3>
+      <p align="center">
+        <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Student_Performance_using_RandomForest" target="_blank">
+          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Student_Performance_using_RandomForest/student_exam_performance.jpg" width="400" alt="Netflix Show EDA"/>
+        </a>
+      </p>
+      <p align="center">
+        This project predicts whether a student will pass or fail based on demographic, behavioral, and academic features using the Student Performance Dataset. The workflow includes data preprocessing, feature engineering, model training, evaluation, and interpretability, giving insights not only on which students are at risk but also why they are predicted to pass or fail.  
+        <br/>
+        <strong>Tech:</strong> Data Preprocessing, Feature Engineering, Model Training, Evaluation Metrics  
+        <br/>
+        <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Student_Performance_using_RandomForest" target="_blank">🔗 View Project</a>
       </p>
     </td>
   </tr>
