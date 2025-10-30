@@ -48,7 +48,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📺 Netflix Show Data EDA</h3>
+      <h3 align="center">📺 EDA on Netflix Show Content</h3>
       <p align="center">
         <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Netflix-Show-EDA" target="_blank">
           <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Netflix-Show-EDA/Netflix-EDA.png" width="400" alt="Netflix Show EDA"/>
