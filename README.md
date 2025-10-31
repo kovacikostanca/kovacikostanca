@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kostanca Kovaci</h1>
+<h1 align="center">Hi , I'm Kostanca Kovaci</h1>
 
 <h2 align="center">🎓 MSc Data Scientist | Undergraduate Physicist</h2>
 <h3 align="center">I am passionate about applying data science, machine learning, and statistics to solve real-world problems.</h3>
