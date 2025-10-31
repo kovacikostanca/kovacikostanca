@@ -28,7 +28,7 @@
 
 ---
 
-### 🚀 Featured Projects
+<h1 align="center"> Projects</h1>
 
 <table>
   <tr>
