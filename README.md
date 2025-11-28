@@ -85,18 +85,18 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Sales Insights Dashboard</h3>
+      <h3 align="center">Retail Sales Performance Tableau Dashboard - Europe </h3>
       <p align="center">
-        <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Sales%20Insights%20Dashboard/README.md" target="_blank">
-          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Sales%20Insights%20Dashboard/Sales%20Insights%20Dashboard.png" width="400" alt="Sales Insights Dashboard"/>
+        <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Retail%20Sales%20Tableua%20Dashboard" target="_blank">
+          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Retail%20Sales%20Tableua%20Dashboard/Retail_Sales_Tableau.png" width="400" alt="Retail Sales Performance Dashboard"/>
         </a>
       </p>
       <p align="center">
-        This project illustrates an interactive Tableau Dashboard that provides data-driven insights into sales performance and business growth, highlighting data analysis, and design interactive dashboards.
+        This project is an end-to-end analytics solution built using Tableau Public and Excel. It analyzes a synthetic but realistic European retail dataset consisting of 10,000 transactions.
         <br/>
-        <strong>Tech:</strong> Data Collection, Data Cleaning, EDA, Python, Tableau 
+        <strong>Tech:</strong> Data Collection, Data Cleaning, EDA, Excel, Tableau
         <br/>
-        <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Sales%20Insights%20Dashboard/README.md" target="_blank">🔗 View Project</a>
+        <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Retail%20Sales%20Tableua%20Dashboard" target="_blank">🔗 View Project</a>
       </p>
     </td>
   </tr>
