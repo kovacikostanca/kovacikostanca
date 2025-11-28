@@ -2,7 +2,16 @@
 
 <h2 align="center">🎓 MSc Data Scientist | Undergraduate Physicist</h2>
 
-<h3 align="center">I am passionate about applying data science, machine learning, and statistics to solve real-world problems.</h3> ### 🛠️ Tech Stack **Languages:** Python, SQL **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow (learning) **Tools:** Jupyter Notebook, Tableau, Excel, Matlab **Areas of Interest:** Machine Learning, NLP, Data Visualization <h3 align="left">Languages and Tools:</h3>
+<h3 align="center">I am passionate about applying data science, machine learning, and statistics to solve real-world problems.</h3> 
+
+### 🛠️ Tech Stack 
+
+**Languages:** Python, SQL 
+**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow (learning) 
+**Tools:** Jupyter Notebook, Tableau, Excel, Matlab 
+**Areas of Interest:** Machine Learning, NLP, Data Visualization 
+
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
@@ -36,7 +45,9 @@
 <h2 align="center">Find me Online</h2>
 
 📫 [Email Me](mailto:kovacikostancal@gmail.com) 
+
 🔗 [LinkedIn](https://linkedin.com/in/kostanca-kovaci) 
+
 🌐 [Portfolio Website](https://kovacikostanca.github.io/kostancakovaci.github.io/) 
 
 --- 
