@@ -68,7 +68,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Student Exam Performance Prediction</h3>
+      <h3 align="center">🔍 Student Exam Performance Prediction</h3>
       <p align="center">
         <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Student_Performance_using_RandomForest" target="_blank">
           <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Student_Performance_using_RandomForest/student_exam_performance.jpg" width="400" alt="Student Exam Performance Prediction"/>
@@ -85,7 +85,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Retail Sales Performance Tableau Dashboard - Europe </h3>
+      <h3 align="center">📊 Retail Sales Performance Tableau Dashboard - Europe </h3>
       <p align="center">
         <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Retail%20Sales%20Tableua%20Dashboard" target="_blank">
           <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Retail%20Sales%20Tableua%20Dashboard/Retail_Sales_Tableau.png" width="400" alt="Retail Sales Performance Dashboard"/>
