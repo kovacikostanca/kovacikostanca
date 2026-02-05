@@ -7,8 +7,11 @@
 ### 🛠️ Tech Stack 
 
 **Languages:** Python, SQL 
+
 **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow (learning) 
-**Tools:** Jupyter Notebook, Tableau, Excel, Matlab 
+
+**Tools:** Jupyter Notebook, Tableau, Excel
+
 **Areas of Interest:** Machine Learning, NLP, Data Visualization 
 
 <h3 align="left">Languages and Tools:</h3>
