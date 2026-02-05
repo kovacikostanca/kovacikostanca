@@ -53,7 +53,7 @@
 
 🔗 [LinkedIn](https://linkedin.com/in/kostanca-kovaci) 
 
-🌐 [Portfolio Website](https://kovacikostanca.github.io/kostancakovaci.github.io/) 
+🌐 [Portfolio Website](https://kovacikostanca.github.io) 
 
 --- 
 
