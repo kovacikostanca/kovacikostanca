@@ -73,12 +73,12 @@ I work with Python, SQL, Tableau, and machine learning to build dashboards, repo
           <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Gendered%20Perceptions%20of%20Places%20in%20LLMs/p1_llm_image.png" width="400" alt="Gendered Perceptions in LLMs"/>
         </a>
       </p>
-      <p align="center">
+      <p>
         The study concludes that current state-of-the-art LLMs suffer from "geographical hallucinations" and "gendered sensitivity" that do not reflect ground-truth reality. While human crowdsourced data remains a reliable proxy for urban safety, AI models require significant bias mitigation and data-grounding before being deployed in recommendation engines.  
         <br/>
         <strong>Tech:</strong> Python, Pandas, Scikit-learn, Matplotlib  
         <br/>
-        <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/house-price-prediction" target="_blank">🔗 View Project</a>
+        <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Gendered%20Perceptions%20of%20Places%20in%20LLMs" target="_blank">🔗 View Project</a>
       </p>
     </td>
     <td width="50%">
