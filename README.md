@@ -1,9 +1,11 @@
 <h1 align="center">Hi , I'm Kostanca Kovaci</h1>
 
-<h2 align="center">Data Scientist (MSc) | Python, SQL, Tableau, Machine Learning | Turning Data into Insights</h2>
+<h2 align="center">Data Scientist | Python, SQL, Tableau, ML | Delivering Actionable Insights from Data</h2>
 
-<h3>A Data Scientist passionate about transforming data into insights.
-I work with Python, SQL, Tableau, and machine learning to build dashboards, reports, and predictive models.</h3> 
+<h3>I am a data scientist passionate about translating complex datasets into actionable insights. I specialize in **data cleaning, visualization, reporting, and predictive modeling**, using Python, SQL, Tableau, and machine learning to support data-driven decision-making.  
+
+I collaborate effectively in remote or international teams and thrive in projects where data is transformed into meaningful business impact.
+</h3> 
 
 ### 🛠️ Tech Stack 
 
