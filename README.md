@@ -62,7 +62,7 @@ I work with Python, SQL, Tableau, and machine learning to build dashboards, repo
 
 --- 
 
-<h1 align="center"> Projects</h1>
+<h1 align="center">Featured Projects</h1>
 
 <table>
   <tr>
