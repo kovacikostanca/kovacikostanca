@@ -74,7 +74,7 @@ I work with Python, SQL, Tableau, and machine learning to build dashboards, repo
         </a>
       </p>
       <p>
-        The study concludes that current state-of-the-art LLMs suffer from "geographical hallucinations" and "gendered sensitivity" that do not reflect ground-truth reality. While human crowdsourced data remains a reliable proxy for urban safety, AI models require significant bias mitigation and data-grounding before being deployed in recommendation engines.  
+        The study investigates that current state-of-the-art LLMs suffer from "geographical hallucinations" and "gendered sensitivity" that do not reflect ground-truth reality. AI models require significant bias mitigation and data-grounding before being deployed in recommendation engines.  
         <br/>
         <strong>Tech:</strong> Python, Pandas, Scikit-learn, Matplotlib  
         <br/>
