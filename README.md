@@ -2,7 +2,8 @@
 
 <h2 align="center">Data Scientist (MSc) | Applied data analysis, visualization & dashboards | Python, SQL</h2>
 
-<h3 align="center">I am passionate about applying data science, machine learning, and statistics to solve real-world problems.</h3> 
+<h3 align="center">A Data Scientist passionate about transforming data into insights.
+I work with Python, SQL, Tableau, and machine learning to build dashboards, reports, and predictive models.</h3> 
 
 ### 🛠️ Tech Stack 
 
