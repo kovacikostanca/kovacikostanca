@@ -2,10 +2,10 @@
 
 <h2 align="center">Data Scientist | Python, SQL, Tableau, ML | Delivering Actionable Insights from Data</h2>
 
-<h3>I am a data scientist passionate about translating complex datasets into actionable insights. I specialize in **data cleaning, visualization, reporting, and predictive modeling**, using Python, SQL, Tableau, and machine learning to support data-driven decision-making.  
-
+<p>I am a data scientist passionate about translating complex datasets into actionable insights. I specialize in data cleaning, visualization, reporting, and predictive modeling, using Python, SQL, Tableau, and machine learning to support data-driven decision-making.  
+<br />
 I collaborate effectively in remote or international teams and thrive in projects where data is transformed into meaningful business impact.
-</h3> 
+</p> 
 
 ### 🛠️ Tech Stack 
 
