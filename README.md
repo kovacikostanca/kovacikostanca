@@ -78,7 +78,7 @@ I work with Python, SQL, Tableau, and machine learning to build dashboards, repo
         <br/>
         <strong>Tech:</strong> Python, Pandas, Scikit-learn, Matplotlib  
         <br/>
-        <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Gendered%20Perceptions%20of%20Places%20in%20LLMs" target="_blank">🔗 View Project</a>
+        <a align='center' href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Gendered%20Perceptions%20of%20Places%20in%20LLMs" target="_blank">🔗 View Project</a>
       </p>
     </td>
     <td width="50%">
