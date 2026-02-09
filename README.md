@@ -2,7 +2,7 @@
 
 <h2 align="center">Data Scientist (MSc) | Python, SQL, Tableau, Machine Learning | Turning Data into Insights</h2>
 
-<p align="center">A Data Scientist passionate about transforming data into insights.
+<p>A Data Scientist passionate about transforming data into insights.
 I work with Python, SQL, Tableau, and machine learning to build dashboards, reports, and predictive models.</p> 
 
 ### 🛠️ Tech Stack 
