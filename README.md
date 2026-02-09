@@ -74,7 +74,7 @@ I work with Python, SQL, Tableau, and machine learning to build dashboards, repo
         </a>
       </p>
       <p>
-        The study investigates that current state-of-the-art LLMs suffer from "geographical hallucinations" and "gendered sensitivity" that do not reflect ground-truth reality. AI models require significant bias mitigation and data-grounding before being deployed in recommendation engines.  
+        The study investigates whether LLMs describe and represent similar neighbourhoods in the same way when it is asked from different gender groups. 
         <br/>
         <strong>Tech:</strong> Python, Pandas, Scikit-learn, Matplotlib  
         <br/>
