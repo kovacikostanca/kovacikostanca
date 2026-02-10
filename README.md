@@ -62,7 +62,9 @@
       <h3 align="center">🌐 Gendered Perception in LLMs</h3>
       <p align="center">
         <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Gendered%20Perceptions%20of%20Places%20in%20LLMs" target="_blank">
-          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Gendered%20Perceptions%20of%20Places%20in%20LLMs/p1_llm_image.png" width="100%" style="max-width:400px;" alt="LLM Bias Project"/>
+          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Gendered%20Perceptions%20of%20Places%20in%20LLMs/p1_llm_image.png" 
+               style="width:400px; height:225px; object-fit:cover; border-radius:15px;" 
+               alt="LLM Bias Project"/>
         </a>
       </p>
       <p>
@@ -77,7 +79,9 @@
       <h3 align="center">🎬 Netflix Content Strategy EDA</h3>
       <p align="center">
         <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Netflix-Show-EDA" target="_blank">
-          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Netflix-Show-EDA/Netflix-EDA.png" width="100%" style="max-width:400px;" alt="Netflix EDA"/>
+          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Netflix-Show-EDA/Netflix-EDA.png" 
+               style="width:400px; height:225px; object-fit:cover; border-radius:15px;" 
+               alt="Netflix EDA"/>
         </a>
       </p>
       <p>
@@ -95,7 +99,9 @@
       <h3 align="center">🎓 Student Performance Prediction</h3>
       <p align="center">
         <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Student_Performance_using_RandomForest" target="_blank">
-          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Student_Performance_using_RandomForest/student_exam_performance.jpg" width="100%" style="max-width:400px;" alt="Student Performance"/>
+          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Student_Performance_using_RandomForest/student_exam_performance.jpg" 
+               style="width:400px; height:225px; object-fit:cover; border-radius:15px;" 
+               alt="Student Performance"/>
         </a>
       </p>
       <p>
@@ -110,7 +116,9 @@
       <h3 align="center">📈 European Retail Analytics</h3>
       <p align="center">
         <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Retail%20Sales%20Tableua%20Dashboard" target="_blank">
-          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Retail%20Sales%20Tableua%20Dashboard/Retail_Sales_Tableau.png" width="100%" style="max-width:400px;" alt="Tableau Dashboard"/>
+          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Retail%20Sales%20Tableua%20Dashboard/Retail_Sales_Tableau.png" 
+               style="width:400px; height:225px; object-fit:cover; border-radius:15px;" 
+               alt="Tableau Dashboard"/>
         </a>
       </p>
       <p>
