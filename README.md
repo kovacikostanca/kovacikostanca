@@ -31,17 +31,12 @@
 
 --- 
 
-<h2 align="center">Find me Online</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kovacikostanca&show_icons=true&locale=en&layout=compact" alt="kovacikostanca" /></p>
 
-📫 [Email Me](mailto:kovacikostancal@gmail.com) 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kovacikostanca&show_icons=true&locale=en" alt="kovacikostanca" /></p>
 
-🔗 [LinkedIn](https://linkedin.com/in/kostanca-kovaci) 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kovacikostanca&" alt="kovacikostanca" /></p>
 
-🌐 [Portfolio Website](https://kovacikostanca.github.io) 
-
---- 
-
-- 👨‍💻 All of my projects are available at [https://github.com/kovacikostanca/Data-Science-Portfolio](https://github.com/kovacikostanca/Data-Science-Portfolio)
 
 --- 
 
