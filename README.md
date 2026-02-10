@@ -54,55 +54,72 @@
 
 ---
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center">🚀 Featured Data Science Projects</h2>
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Gendered Perception in LLMs</h3>
+      <h3 align="center">🌐 Gendered Perception in LLMs</h3>
       <p align="center">
         <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Gendered%20Perceptions%20of%20Places%20in%20LLMs" target="_blank">
-          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Gendered%20Perceptions%20of%20Places%20in%20LLMs/p1_llm_image.png" width="100%" alt="Gendered Perceptions in LLMs"/>
+          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Gendered%20Perceptions%20of%20Places%20in%20LLMs/p1_llm_image.png" width="100%" style="max-width:400px;" alt="LLM Bias Project"/>
         </a>
       </p>
-      <p>An investigation into linguistic bias within LLMs, analyzing how gender groups influence neighborhood descriptions.</p>
-      <p><strong>Tech Stack:</strong> Python, Pandas, Scikit-learn, NLP</p>
-      <p align="center"><a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Gendered%20Perceptions%20of%20Places%20in%20LLMs">🔗 View Case Study</a></p>
+      <p>
+        <strong>Core Insight:</strong> Investigated algorithmic bias in Large Language Models to determine if neighborhood descriptions vary based on gendered prompts.
+        <br/><br/>
+        <b>🛠️ Tech:</b> Python, NLP, Scikit-learn, Statistical Analysis 
+        <br/>
+        <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Gendered%20Perceptions%20of%20Places%20in%20LLMs" target="_blank"><b>📂 View Repository</b></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Netflix Content Analysis</h3>
+      <h3 align="center">🎬 Netflix Content Strategy EDA</h3>
       <p align="center">
         <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Netflix-Show-EDA" target="_blank">
-          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Netflix-Show-EDA/Netflix-EDA.png" width="100%" alt="Netflix Show EDA"/>
+          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Netflix-Show-EDA/Netflix-EDA.png" width="100%" style="max-width:400px;" alt="Netflix EDA"/>
         </a>
       </p>
-      <p>Comprehensive EDA of Netflix titles to uncover trends in content production, genre popularity, and regional distribution.</p>
-      <p><strong>Tech Stack:</strong> Python, Matplotlib, Seaborn</p>
-      <p align="center"><a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Netflix-Show-EDA">🔗 View Case Study</a></p>
+      <p>
+        <strong>Core Insight:</strong> Performed deep-dive Exploratory Data Analysis on 8,000+ titles to identify global streaming trends, genre shifts, and content gaps.
+        <br/><br/>
+        <b>🛠️ Tech:</b> Python, Pandas, Seaborn, Data Visualization
+        <br/>
+        <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Netflix-Show-EDA" target="_blank"><b>📂 View Repository</b></a>
+      </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Student Exam Prediction</h3>
+      <h3 align="center">🎓 Student Performance Prediction</h3>
       <p align="center">
         <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Student_Performance_using_RandomForest" target="_blank">
-          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Student_Performance_using_RandomForest/student_exam_performance.jpg" width="100%" alt="Student Exam Performance Prediction"/>
+          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Student_Performance_using_RandomForest/student_exam_performance.jpg" width="100%" style="max-width:400px;" alt="Student Performance"/>
         </a>
       </p>
-      <p>Classification model predicting student outcomes based on behavioral and academic metrics using Random Forest.</p>
-      <p><strong>Tech Stack:</strong> Scikit-learn, Feature Engineering, Random Forest</p>
-      <p align="center"><a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Student_Performance_using_RandomForest">🔗 View Case Study</a></p>
+      <p>
+        <strong>Core Insight:</strong> Developed a Random Forest classifier to predict academic success. Implemented feature engineering to identify key behavioral predictors.
+        <br/><br/>
+        <b>🛠️ Tech:</b> Random Forest, Feature Engineering, Classification
+        <br/>
+        <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Student_Performance_using_RandomForest" target="_blank"><b>📂 View Repository</b></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Retail Sales Dashboard</h3>
+      <h3 align="center">📈 European Retail Analytics</h3>
       <p align="center">
         <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Retail%20Sales%20Tableua%20Dashboard" target="_blank">
-          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Retail%20Sales%20Tableua%20Dashboard/Retail_Sales_Tableau.png" width="100%" alt="Retail Sales Performance Dashboard"/>
+          <img src="https://github.com/kovacikostanca/Data-Science-Portfolio/blob/main/Retail%20Sales%20Tableua%20Dashboard/Retail_Sales_Tableau.png" width="100%" style="max-width:400px;" alt="Tableau Dashboard"/>
         </a>
       </p>
-      <p>End-to-end Tableau solution analyzing 10k+ transactions to visualize KPIs and sales performance across Europe.</p>
-      <p><strong>Tech Stack:</strong> Tableau, Excel, Data Cleaning</p>
-      <p align="center"><a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Retail%20Sales%20Tableua%20Dashboard">🔗 View Case Study</a></p>
+      <p>
+        <strong>Core Insight:</strong> Built an end-to-end Tableau dashboard analyzing 10k+ transactions. Delivered interactive KPIs for sales performance and regional growth.
+        <br/><br/>
+        <b>🛠️ Tech:</b> Tableau, Excel, ETL, Business Intelligence
+        <br/>
+        <a href="https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Retail%20Sales%20Tableua%20Dashboard" target="_blank"><b>📂 View Repository</b></a>
+      </p>
     </td>
   </tr>
 </table>
