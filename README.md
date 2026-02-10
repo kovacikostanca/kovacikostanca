@@ -43,16 +43,21 @@
 ---
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kovacikostanca&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
-  <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=kovacikostanca&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
-
-<p align="left">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kovacikostanca&theme=vision-friendly-dark" alt="GitHub Streak" />
-
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kovacikostanca&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=kovacikostanca&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats-report-card.vercel.app/?user=kovacikostanca&theme=vision-friendly-dark" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
