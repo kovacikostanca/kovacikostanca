@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Kostanca Kovaci</h1>
-
-<h3 align="center">I am passionate about translating complex datasets into actionable insights and making predictions through machine learning.</h3>
+<h2 align="center">Data Scientist | Analyst | Python, SQL, Tableau, Machine Learning
+<h3 align="left">I am passionate about translating complex datasets into actionable insights and making predictions through machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kovacikostanca&label=Profile%20views&color=0e75b6&style=flat" alt="kovacikostanca" /> </p>
 
