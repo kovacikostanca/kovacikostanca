@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Tech Stack 
+<h2>🛠️ Tech Stack</h2> 
 
 **Languages:** Python, SQL 
 
