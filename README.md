@@ -44,12 +44,12 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kovacikostanca&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kovacikostanca&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/kovacikostanca/kovacikostanca/main/profile-summary-card-output/classic/0-github-stats.svg" width="45%" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/kovacikostanca/kovacikostanca/main/profile-summary-card-output/classic/1-languages.svg" width="45%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kovacikostanca&theme=vision-friendly-dark" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/kovacikostanca/kovacikostanca/main/profile-summary-card-output/classic/2-most-commit-language.svg" width="90%" alt="Commit Stats" />
 </p>
 
 ---
