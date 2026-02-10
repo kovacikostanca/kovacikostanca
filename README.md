@@ -44,13 +44,11 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kovacikostanca&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=kovacikostanca&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kovacikostanca&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=kovacikostanca&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kovacikostanca&theme=vision-friendly-dark" alt="GitHub Streak" />
 
