@@ -49,7 +49,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-report-card.vercel.app/?user=kovacikostanca&theme=vision-friendly-dark" alt="GitHub Streak" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kovacikostanca&theme=vision-friendly-dark" alt="GitHub Streak" />
+
 </p>
 
 ---
