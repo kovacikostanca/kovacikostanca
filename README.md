@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kovacikostanca&label=Profile%20views&color=0e75b6&style=flat" alt="kovacikostanca" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/kovacikostanca/Data-Science-Portfolio](https://github.com/kovacikostanca/Data-Science-Portfolio)
+- 👨‍💻 All of my projects are available at [GitHub Portfolio](https://github.com/kovacikostanca/Data-Science-Portfolio) or [Portfolio Website](https://kovacikostanca.github.io/)
 
 - 📫 How to reach me **kovacikostanca@gmail.com**
 
