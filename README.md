@@ -153,4 +153,4 @@
   </tr>
 </table>
 
-<p align="center"> [View More Projects](https://github.com/kovacikostanca/Data-Science-Portfolio) </p>
+<a align='center'> [GitHub Portfolio](https://github.com/kovacikostanca/Data-Science-Portfolio) </a>
