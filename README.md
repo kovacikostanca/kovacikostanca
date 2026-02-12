@@ -152,3 +152,5 @@
     </td>
   </tr>
 </table>
+
+<p align="center"> [View More Projects](https://github.com/kovacikostanca/Data-Science-Portfolio) </p>
