@@ -13,7 +13,7 @@
 
 ### 🚀 Quick Links
 - 👨‍💻 Explore my full code: [GitHub Portfolio](https://github.com/kovacikostanca/Data-Science-Portfolio)
-- 🌐 Visit my site: [Portfolio Website](https://kovacikostanca.github.io/)
+- 🌐 Visit my site: [Portfolio Website](https://growindata.com)
 - 📫 Reach me at: **kovacikostanca@gmail.com**
 
 **Connect In**:
