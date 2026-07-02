@@ -18,11 +18,11 @@ Turning messy data into decisions that hold up in production, not just in a note
 
 ## About Me
 
-MSc Data Science graduate (Middlesex University, BSc Physics background) building end-to-end data solutions — from raw, messy data to deployed models and business-ready dashboards. My physics background trained me to question assumptions and validate rigorously; my dissertation on gendered bias in LLM outputs (Top 5 Best Individual Project Poster, Middlesex University) sharpened that into a focus on responsible, auditable AI systems.
+MSc Data Science graduate and BSc Physics background, building end-to-end data solutions from raw, messy data to deployed models and business-ready dashboards. My physics background trained me to question assumptions and validate rigorously; my dissertation on gendered bias in LLM outputs (Top 5 Best Individual Project Poster, Middlesex University) sharpened that into a focus on responsible, auditable AI systems.
 
 I care about the whole pipeline: clean data → sound analysis → clear communication → something that actually ships.
 
-**Currently:** Open to remote Data Analyst / Data Scientist roles (EU remote & UK, London-flexible) | Building [GrowInData](https://growindata.com), a data analytics practice for e-commerce & startups
+**Currently:** Open to remote Data Analyst / Data Scientist roles (EU remote & UK, London-flexible) | Building [GrowInData](https://growindata.com), a data analytics practice for small businesses & startups
 
 ---
 
