@@ -55,26 +55,6 @@ I care about the whole pipeline: clean data → sound analysis → clear communi
 
 ---
 
-## 📊 GitHub Analytics
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kovacikostanca&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=kovacikostanca&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kovacikostanca&theme=vision-friendly-dark" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🌟 Featured Projects
 
 ### 🎯 [Customer Churn Prediction](https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Customer%20Churn%20Prediction)
@@ -107,6 +87,26 @@ Dissertation research investigating algorithmic bias in LLMs, whether neighborho
 | [Sales Insights Dashboard](https://github.com/kovacikostanca/Data-Science-Portfolio) | BI dashboard, secondary retail domain |
 
 [View All Projects →](https://github.com/kovacikostanca/Data-Science-Portfolio)
+
+---
+
+## 📊 GitHub Analytics
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kovacikostanca&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=kovacikostanca&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kovacikostanca&theme=vision-friendly-dark" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
