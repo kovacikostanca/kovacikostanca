@@ -43,11 +43,13 @@ I care about the whole pipeline: clean data → sound analysis → clear communi
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
 * **Languages:** Python, SQL (PostgreSQL, MySQL)
-* **Data Analysis:** Pandas, NumPy, Excel
-* **Visualization:** Tableau, Matplotlib, Seaborn, Streamlit
+* **Data Analysis:** Pandas, NumPy, Excel, Google Sheets
+* **Visualization:** Tableau, Matplotlib, Seaborn, Streamlit, Altair
 * **Machine Learning:** Scikit-learn, TensorFlow, Feature Engineering, NLP
 * **Other:** Statistical Analysis · A/B Testing fundamentals · LLM Bias & Fairness Auditing
 
