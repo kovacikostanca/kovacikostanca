@@ -2,7 +2,7 @@
 
 # Hi, I'm Kostanca Kovaci 👋
 
-### Data Scientist | MSc Data Science | Data Analyst | Physics → Data Career
+### Data Scientist | Data Analyst | Business Analytics | AI/Machine Learning
 
 <img src="https://komarev.com/ghpvc/?username=kovacikostanca&label=Profile%20views&color=0e75b6&style=flat-square" alt="kovacikostanca" />
 
