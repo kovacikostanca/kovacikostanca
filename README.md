@@ -9,7 +9,7 @@
 Turning messy data into decisions that hold up in production, not just in a notebook.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/kostanca-kovaci)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GrowInData-6C5CE7?style=flat)](https://growindata.com)
+[![Portfolio](https://kostancakovaci.com/portfolio/portfolio)](https://kostancakovaci.com)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:kovacikostanca@gmail.com)
 
 </div>
