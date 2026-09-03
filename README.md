@@ -57,20 +57,20 @@ I care about the whole pipeline: clean data → sound analysis → clear communi
 
 ## 🌟 Featured Projects
 
-### 🎯 [Customer Churn Prediction](https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Customer%20Churn%20Prediction)
-End-to-end churn model deployed as a live Streamlit app. Gradient Boosting classifier, **ROC-AUC 0.88**, tuned decision threshold (0.34) to reach **89% recall**, prioritizing catching at-risk customers over raw accuracy, the metric that actually matters for retention teams.
+### 🎯 [Customer Churn Prediction](https://github.com/kovacikostanca/data-science-portfolio/tree/main/churn-prediction)
+End-to-end churn model deployed as a live Streamlit app. Gradient Boosting classifier, **ROC-AUC 0.88**, tuned decision threshold (0.34) to reach **89% recall**, prioritizing catching at-risk customers over raw accuracy — the metric that actually matters for retention teams.
 `Python` `Scikit-learn` `Streamlit` `Deployed`
 
-### 📊 [E-Commerce Sales Analysis – PostgreSQL (Olist)](https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/E-Commerce%20Sales%20Analysis%20-%20PostgreSQL)
+### 📊 [E-Commerce Sales Analysis – PostgreSQL (Olist)](https://github.com/kovacikostanca/data-science-portfolio/tree/main/ecommerce-sql-analysis)
 9-table relational schema, 10 business questions solved from basic aggregation to advanced window functions (RANK, LAG, NTILE) and CTEs, answering real questions a retail ops or growth team would ask.
 `PostgreSQL` `Advanced SQL` `pgAdmin`
 
-### 📈 [Retail Sales Tableau Dashboard](https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Retail%20Sales%20Tableua%20Dashboard)
+### 📈 [Retail Sales Tableau Dashboard](https://github.com/kovacikostanca/data-science-portfolio/tree/main/retail-sales-optimization)
 End-to-end Tableau dashboard analyzing 10k+ transactions across three interactive views, built for stakeholders who need answers, not just charts.
 `Tableau` `Excel` `ETL` `Business Intelligence`
 
-### 🧠 [Gendered Perceptions of Places in LLMs](https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Gendered%20Perceptions%20of%20Places%20in%20LLMs)
-Dissertation research investigating algorithmic bias in LLMs, whether neighborhood descriptions vary based on gendered prompts. Awarded Top 5 Best Individual Project Poster at Middlesex University. Directly relevant to EU AI Act compliance and responsible AI work.
+### 🧠 [Gendered Perceptions of Places in LLMs](https://github.com/kovacikostanca/data-science-portfolio/tree/main/llm-bias-audit)
+Dissertation research investigating algorithmic bias in LLMs — whether neighborhood descriptions vary based on gendered prompts. Awarded Top 5 Best Individual Project Poster at Middlesex University. Directly relevant to EU AI Act compliance and responsible AI work.
 `Python` `NLP` `Scikit-learn` `Statistical Analysis` `Bias & Fairness`
 
 ---
@@ -79,14 +79,14 @@ Dissertation research investigating algorithmic bias in LLMs, whether neighborho
 
 | Project | What it demonstrates |
 |---|---|
-| [Data Quality Pipeline](https://github.com/kovacikostanca/Data-Science-Portfolio) | 14-rule automated validator + cleaner + PDF reporting pipeline (eBay Kleinanzeigen dataset) |
-| [Fake Job Post Detector](https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Fake_Job_Post_Detector) | NLP text classification to flag fraudulent job listings |
-| [House Price Prediction](https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/house-price-prediction) | Regression modeling and feature engineering |
-| [Student Performance Prediction](https://github.com/kovacikostanca/Data-Science-Portfolio/tree/main/Student_Performance_using_RandomForest) | Random Forest classifier predicting academic success, with feature engineering for behavioral predictors |
-| [Patient Records Dashboard (Excel)](https://github.com/kovacikostanca/Data-Science-Portfolio) | Advanced Excel dashboarding, healthcare domain |
-| [Sales Insights Dashboard](https://github.com/kovacikostanca/Data-Science-Portfolio) | BI dashboard, secondary retail domain |
+| [Data Quality Pipeline](https://github.com/kovacikostanca/data-science-portfolio/tree/main/data-quality-pipeline) | 14-rule automated validator + cleaner + PDF reporting pipeline (eBay Kleinanzeigen dataset) |
+| [Fake Job Post Detector](https://github.com/kovacikostanca/data-science-portfolio/tree/main/other-projects/fake-job-post-detector) | NLP text classification to flag fraudulent job listings |
+| [House Price Prediction](https://github.com/kovacikostanca/data-science-portfolio/tree/main/other-projects/house-price-prediction) | Regression modeling and feature engineering |
+| [Student Performance Prediction](https://github.com/kovacikostanca/data-science-portfolio/tree/main/other-projects/student-performance-rf) | Random Forest classifier predicting academic success, with feature engineering for behavioral predictors |
+| [Patient Records Dashboard (Excel)](https://github.com/kovacikostanca/data-science-portfolio/tree/main/other-projects/patient-records-dashboard) | Advanced Excel dashboarding, healthcare domain |
+| [Sales Insights Dashboard](https://github.com/kovacikostanca/data-science-portfolio/tree/main/other-projects/sales-insights-dashboard) | BI dashboard, secondary retail domain |
 
-[View All Projects →](https://github.com/kovacikostanca/Data-Science-Portfolio)
+[View All Projects →](https://github.com/kovacikostanca/data-science-portfolio)
 
 ---
 
