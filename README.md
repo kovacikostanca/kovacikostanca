@@ -11,6 +11,8 @@ Turning messy data into decisions that hold up in production, not just in a note
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/kostanca-kovaci)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://kostancakovaci.com/portfolio/portfolio)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:kovacikostanca@gmail.com)
+[![GitHub Portfolio]([(https://img.shields.io/badge/github-portfolio-blue?logo=github))](https://github.com/kovacikostanca/data-science-portfolio)
+
 
 </div>
 
