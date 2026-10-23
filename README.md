@@ -4,7 +4,7 @@
 
 ### Data Scientist | Data Analyst | Business Analytics | AI/Machine Learning
 
-<img src="https://komarev.com/ghpvc/?username=kovacikostanca&label=Profile%20views&color=0e75b6&style=flat-square" alt="kovacikostanca" />
+![Profile Views](https://komarev.com/ghpvc/?username=kovacikostanca&label=Profile%20views&color=0e75b6&style=flat-square)
 
 Turning messy data into decisions that hold up in production, not just in a notebook.
 
