@@ -58,11 +58,11 @@ I care about the whole pipeline: clean data → sound analysis → clear communi
 
 ## 🌟 Featured Projects
 
-| Project | Topic | Link|
-|---|---|---|
-| Telecom Churn Risk Prediction | End-to-end churn model deployed as a live Streamlit app. Gradient Boosting classifier, **ROC-AUC 0.88**, tuned decision threshold (0.34) to reach **89% recall**, prioritizing catching at-risk customers over raw accuracy — the metric that actually matters for retention teams.
+| Project | Topic | Tech Stack | Link|
+|---|---|---|---|
+| Telecom Churn Risk Prediction | End-to-end churn model deployed as a live Streamlit app. Gradient Boosting classifier, **ROC-AUC 0.88**, tuned decision threshold (0.34) to reach **89% recall**, prioritizing catching at-risk customers over raw accuracy — the metric that actually matters for retention teams. |
 `Python` `Scikit-learn` `Streamlit` `Deployed` | [Customer Churn Prediction](https://github.com/kovacikostanca/data-science-portfolio/tree/main/churn-prediction) |
-| E-Commerce Sales Analysis – PostgreSQL (Olist) | 9-table relational schema, 10 business questions solved from basic aggregation to advanced window functions (RANK, LAG, NTILE) and CTEs, answering real questions a retail ops or growth team would ask.
+| E-Commerce Sales Analysis – PostgreSQL (Olist) | 9-table relational schema, 10 business questions solved from basic aggregation to advanced window functions (RANK, LAG, NTILE) and CTEs, answering real questions a retail ops or growth team would ask. |
 `PostgreSQL` `Advanced SQL` `pgAdmin`|[E-Commerce Sales Analysis – PostgreSQL (Olist)](https://github.com/kovacikostanca/data-science-portfolio/tree/main/ecommerce-sql-analysis) |
 
 
