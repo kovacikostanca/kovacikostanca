@@ -23,7 +23,7 @@ MSc Data Science graduate and BSc Physics background, building end-to-end data s
 
 I care about the whole pipeline: clean data → sound analysis → clear communication → something that actually ships.
 
-**Currently:** Open to Data Analyst / Data Scientist / BI Analyst roles (EU & UK, onsite-remote, London-flexible) | Building [GrowInData](https://growindata.com), a data analytics practice for small businesses & startups
+**Currently:** Open to Data Analyst / Data Scientist / BI Analyst roles | Building [GrowInData](https://growindata.com), a data professions environment for everyone that wants to learn and pratice at the same time.
 
 ---
 
