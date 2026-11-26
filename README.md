@@ -62,7 +62,7 @@ I care about the whole pipeline: clean data → sound analysis → clear communi
 |---|---|---|
 | Telecom Churn Risk Prediction | End-to-end churn model deployed as a live Streamlit app. Gradient Boosting classifier, **ROC-AUC 0.88**, tuned decision threshold (0.34) to reach **89% recall**, prioritizing catching at-risk customers over raw accuracy — the metric that actually matters for retention teams.
 `Python` `Scikit-learn` `Streamlit` `Deployed` | [Customer Churn Prediction](https://github.com/kovacikostanca/data-science-portfolio/tree/main/churn-prediction) |
-| | | |
+|i | o|p |
 
 
 ### 📊 [E-Commerce Sales Analysis – PostgreSQL (Olist)](https://github.com/kovacikostanca/data-science-portfolio/tree/main/ecommerce-sql-analysis)
