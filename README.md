@@ -102,8 +102,6 @@ I care about the whole pipeline: clean data → sound analysis → clear communi
 
 ## 📫 Let's Connect
 
-I'm actively looking for Data Analytics / Data Engineer / AI Engineer opportunities (EU & UK).
-
 <p align="left">
 <a href="https://linkedin.com/in/kostanca-kovaci" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kostanca kovaci" /></a>
 <a href="mailto:kovacikostanca@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
